@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ojiweefo.github.io/GmO/sitemap_index.txt
+Sitemap: https://ojiweefo.github.io/aJc/sitemap_index.txt
+Sitemap: https://ojiweefo.github.io/cPe/sitemap_index.txt
+Sitemap: https://ojiweefo.github.io/ySt/sitemap_index.txt
